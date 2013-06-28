@@ -4,3 +4,7 @@ title: Gas Powered
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/TfkOMcXPiSg" frameborder="0"></iframe>
+
+Most recently updated top hit
+
+!/images/top_hit.png!
